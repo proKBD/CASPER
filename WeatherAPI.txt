@@ -1,0 +1,33 @@
+WEATHER API
+{
+
+website :  https://openweathermap.org/api
+
+username : CASPER
+email: helloteam@gmail.com
+password: helloteam-
+
+API key : 82e63eebeec824b5190ee711c909ae22
+
+
+format:
+https://api.openweathermap.org/data/2.5/weather?q={cityname}&units=imperial&appid={APIkey}
+
+
+https://api.openweathermap.org/data/2.5/weather?q=siliguri&units=imperial&appid=82e63eebeec824b5190ee711c909ae22
+}
+
+NEWS API
+{
+
+Website: https://newsapi.org/
+
+website :  https://openweathermap.org/api
+
+username : CASPER
+email: helloteam@gmail.com
+password: helloteam-
+
+API key : 409f42d2ab274f1d8ed645f4ca77b03c
+
+view the documentation of API's for more updates and to understand it 
